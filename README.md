@@ -25,7 +25,7 @@
 
 📧 Email: asthapal1310@gmail.com
 .com
-💼 LinkedIn: linkedin.com/in/asthapal
+💼 LinkedIn: https://www.linkedin.com/in/astha-pal-82438b2a8/
 
 
 ⚡ Let’s build something amazing together! 🚀
