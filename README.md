@@ -42,11 +42,11 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| 🚚 **Amazon Logistics Delay Prediction System** | Built an end-to-end AI platform to predict delivery delays using ML models (Random Forest, XGBoost), Flask web app, and Power BI dashboard | Python • Pandas • Scikit-learn • XGBoost • Flask • Power BI |
+| 🌧️ **Rainfall Prediction Model** | Built a machine learning model for rainfall prediction using feature engineering techniques | Scikit-learn • Python |
 | 🚖 **Uber Supply-Demand Analytics** | Identified ride demand gaps and operational inefficiencies using data analytics and visualization | SQL • Python • Power BI |
 | 🧠 **Mental Health Analytics Dashboard** | Analyzed workplace mental health patterns to uncover stress and burnout insights | Python • Pandas • Power BI |
 | 📈 **Sales Analytics Dashboard** | Developed an interactive dashboard for sales trends, profitability, and regional performance | Power BI • Excel |
-| 🎬 **Netflix Data Analysis** | Performed EDA and visualization on Netflix datasets to identify content trends | Python • Pandas |
-| 🌧️ **Rainfall Prediction Model** | Built a machine learning model for rainfall prediction using feature engineering techniques | Scikit-learn • Python |
 
 ---
 
